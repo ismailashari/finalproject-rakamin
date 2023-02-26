@@ -26,7 +26,7 @@ Kami lebih menitik beratkan pada evaluasi *metrics* *recall* yang bertujuan untu
 
 Oleh karena itu kami memilih untuk menggunakan *metrics* **Fbeta score** untuk mengevaluasi model kami. Fbeta score kami pilih karena *metrics* tersebut berfokus pada data yang imbalance dan mengevaluasi *metrics* *recall* dan precision. Nilai beta yang kami gunakan adalah 2 sehingga *metrics* ini biasa disebut juga **F2 Score**. Berikut adalah rumus fbeta score:
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmikulskibartosz.name%2Ff1-score-explained%2F&psig=AOvVaw0hDc5fBjZMVjxUcOT7xYcb&ust=1677498233688000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKins4SOs_0CFQAAAAAdAAAAABAD)
+![alt text](f_beta.png)
 
 ### **3. Implementasi Algoritma**
 
